@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Working Env
+.DS_Store
+.vscide
+
+# Build Location
+build
+
+# Temporary Ignores
+test
+makefile
+winTest
